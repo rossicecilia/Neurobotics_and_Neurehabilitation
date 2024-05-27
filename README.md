@@ -10,7 +10,7 @@ In particular, two types of analyses were requested:
      a. Process the data and apply the convenient filters;
      b. Identifyandextractthemostsuitablefeatures;
      c. Report the achieved results.
-  2) Analyses on BMI decoding on each subject (use a leave-on-out strategy [run-based])
+  3) Analyses on BMI decoding on each subject (use a leave-on-out strategy [run-based])
      a. Calibrationphase:
            ▪ In the trainset: process the data, compute the features, select the most disciminant features;
            ▪ Create a classifier based on those features.
